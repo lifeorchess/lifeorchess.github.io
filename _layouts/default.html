@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="header">
+      <div class="logo">
+        <a href="/" alt="Life or chess">
+          <img class="logo" src="/assets/images/loc.png" alt="Life or chess">
+        </a>
+      </div>
+      <div class="description">
+        <p>Learning journal. Chess novice. Perfecting the art of dubious moves.</p>
+      </div>
+      <div class="navigation">
+        {% include navigation.html %}
+      </div>
+      <div class="social">
+        <a href="https://lichess.org/@/LifeOrChess" alt="Lichess profile">
+          <img src="/assets/images/lichesslogowhite.png">
+        </a>
+        <a href="https://twitter.com/lifeorchess" alt="Twitter profile">
+          <img src="/assets/images/Twitter_Social_Icon_Circle_White.png">
+        </a>
+        <a href="https://github.com/lifeorchess" alt="GitHub profile">
+          <img src="/assets/images/GitHub-Mark-Light-120px-plus.png">
+        </a>
+      </div>
+    </div>
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+  </div>
+
+</body>
+
+</html>

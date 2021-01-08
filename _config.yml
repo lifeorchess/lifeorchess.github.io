@@ -1,0 +1,4 @@
+paginate: 2
+plugins:
+ - jekyll-paginate
+ 
