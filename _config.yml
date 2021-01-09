@@ -1,4 +1,5 @@
-paginate: 2
+paginate: 5
+future: false
 plugins:
  - jekyll-paginate
  
