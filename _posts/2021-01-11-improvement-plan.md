@@ -17,4 +17,4 @@ For the next two weeks my improvement plan will be:
 3. Play on average at least two 15+10 rapid games a day. Analyze them afterwards. 
 4. Read through Dan Heisman's [A Guide to Chess Improvement: The Best of Novice Nook](https://www.amazon.com/dp/B004Z99LUM/).
 
-First goal is to get a stable rating around 1350. I believe it’s possible within a month.
+First goal is to get a stable rating around 1350.
