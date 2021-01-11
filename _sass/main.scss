@@ -25,6 +25,12 @@ body {
     display: flex;
   }
 
+  .logo img {
+    max-width: 100%;
+    width: 150px;
+    height: auto;
+  }
+
   .description {
     display: flex;
     p {
@@ -44,8 +50,9 @@ body {
     .logos {
       display: flex;
       img {
+        max-width: 100%;
         width: 1.5rem;
-        height: 1.5rem;
+        height: auto;
         margin: 0.3rem;
       }
     }
